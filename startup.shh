@@ -1,4 +1,0 @@
-#!/bin/bash
-echo "Sumbission Reminder App Opening"
-source submission_reminder_app/congig.env
-bash submission_reminder_app/reminder.sh
