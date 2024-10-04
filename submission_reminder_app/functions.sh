@@ -9,3 +9,5 @@ status=$(echo "$status" | xargs)
 if [[ "$assignment" == "$ASSIGNMENT" && "$status" == "not submitted" ]]; then
     echo "Reminder: $student has not submitted the $ASSIGNMENT assignment!"
 fi
+done < <(tail -n +2 "$submissions_file")
+}
