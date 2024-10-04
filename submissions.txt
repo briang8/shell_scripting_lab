@@ -6,13 +6,3 @@ Kayla,shell navigation,submitted
 Nav,shell navigation,not submitted
 I,shell navigation,submitted
 Nancy,Shell navigation,not submitted
-jane,shell scripting,submitted
-Kayla,shell navigation,submitted
-Nav,shell navigation,not submitted
-I,shell navigation,submitted
-Nancy,Shell navigation,not submitted
-jane,shell scripting,submitted
-Kayla,shell navigation,submitted
-Nav,shell navigation,not submitted
-I,shell navigation,submitted
-Nancy,Shell navigation,not submitted
